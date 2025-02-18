@@ -91,6 +91,7 @@ You can extend the script functionality by:
 - Consider using environment variables for sensitive information
 
 ## Team Members
-Muhammad Bilal
-Syed Ahmed Haseeb
+- Muhammad Bilal
+- Syed Ahmed Haseeb
+- Muhammad Bilal Aslam
 
