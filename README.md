@@ -89,3 +89,8 @@ You can extend the script functionality by:
 - Store your SendGrid API key securely
 - Don't commit the configuration file with sensitive information to your repository
 - Consider using environment variables for sensitive information
+
+## Team Members
+Muhammad Bilal
+Syed Ahmed Haseeb
+
