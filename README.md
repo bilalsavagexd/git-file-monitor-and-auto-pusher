@@ -132,3 +132,5 @@ Contributions are welcome! Please feel free to submit pull requests.
 
 For support or queries, please contact:
 - Muhammad Bilal - muhammadbilalsvg@gmail.com
+- Syed Ahmed Haseeb - ahmed13731@gmail.com
+- Bilal Aslam - bilal.aslam.338658@gmail.com
